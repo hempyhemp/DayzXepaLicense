@@ -1,2 +1,2 @@
-nickname 16 06
-hemp 17 06
+nickname
+hemp
