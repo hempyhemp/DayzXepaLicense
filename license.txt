@@ -1,4 +1,4 @@
-nickname 17 06 username
+uid 01 01 username
 hemp 14 06 hamit_ba31xcg
 54safasflKsfsals1228 18 07 hamit_ba31xcg
 opti 15 07 opti1
